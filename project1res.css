@@ -1,6 +1,8 @@
-*{
+
+body{
     overflow-x: hidden;
 }
+
 .header{
     background-color: #edf2ef;
 }
